@@ -1,0 +1,14 @@
+.botao {
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+  }
+  
+.pcards {
+    display: flex;
+    
+}
