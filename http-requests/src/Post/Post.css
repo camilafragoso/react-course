@@ -1,0 +1,11 @@
+.post {
+    width: 20vw;
+    display: inline-block;
+    margin: 2% 5%;
+    border: 1px solid black;
+    align-items: center;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 0 2px 2px #ccc;
+    padding: 2%;
+}
